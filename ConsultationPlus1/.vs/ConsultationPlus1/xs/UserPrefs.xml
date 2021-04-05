@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{B6339CD1-4E38-4F41-9C4D-B6AF9F5D749D}|Default">
+  <MonoDevelop.Ide.ItemProperties.WindowsFormsApp2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConsultationPlus1" expanded="True">
+            <Node name="WindowsFormsApp2" expanded="True">
+              <Node name="Form1.Designer.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

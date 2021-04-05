@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21ddbcb9-1689-4063-9e81-b1bee4dfef0c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ConsultationPlus1/.vs/ConsultationPlus1/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsultationPlus1/.vs/ConsultationPlus1/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsultationPlus1/.vs/ConsultationPlus1/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsultationPlus1/.vs/ConsultationPlus1/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsultationPlus1/IntegrationTests/obj/Debug/netcoreapp3.1/IntegrationTests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsultationPlus1/IntegrationTests/obj/Debug/netcoreapp3.1/IntegrationTests.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsultationPlus1/IntegrationTests/obj/Debug/netcoreapp3.1/IntegrationTests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsultationPlus1/IntegrationTests/obj/Debug/netcoreapp3.1/IntegrationTests.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsultationPlus1/IntegrationTests/obj/IntegrationTests.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsultationPlus1/IntegrationTests/obj/IntegrationTests.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsultationPlus1/IntegrationTests/obj/IntegrationTests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsultationPlus1/IntegrationTests/obj/IntegrationTests.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsultationPlus1/IntegrationTests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsultationPlus1/IntegrationTests/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsultationPlus1/IntegrationTests/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsultationPlus1/IntegrationTests/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsultationPlus1/UnitTestProject/obj/Debug/netcoreapp3.1/UnitTestProject.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsultationPlus1/UnitTestProject/obj/Debug/netcoreapp3.1/UnitTestProject.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsultationPlus1/UnitTestProject/obj/Debug/netcoreapp3.1/UnitTestProject.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsultationPlus1/UnitTestProject/obj/Debug/netcoreapp3.1/UnitTestProject.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsultationPlus1/UnitTestProject/obj/UnitTestProject.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsultationPlus1/UnitTestProject/obj/UnitTestProject.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsultationPlus1/UnitTestProject/obj/UnitTestProject.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsultationPlus1/UnitTestProject/obj/UnitTestProject.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsultationPlus1/UnitTestProject/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsultationPlus1/UnitTestProject/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsultationPlus1/UnitTestProject/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsultationPlus1/UnitTestProject/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/DatabaseCommunicator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/DatabaseCommunicator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/Forms/EmailForm.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/Forms/EmailForm.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/Forms/SearchForm.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/Forms/SearchForm.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/Forms/SearchForm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/Forms/SearchForm.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/Forms/SearchForm.resx" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/Forms/SearchForm.resx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/bin/Debug/netcoreapp3.1/ConsultationPlus.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/bin/Debug/netcoreapp3.1/ConsultationPlus.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/bin/Debug/netcoreapp3.1/ConsultationPlus.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/bin/Debug/netcoreapp3.1/ConsultationPlus.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/bin/Debug/netcoreapp3.1/ConsultationPlus.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/bin/Debug/netcoreapp3.1/ConsultationPlus.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/bin/Debug/netcoreapp3.1/ConsultationPlus.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/bin/Debug/netcoreapp3.1/ConsultationPlus.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/obj/ConsultationPlus.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/obj/ConsultationPlus.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/obj/ConsultationPlus.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/obj/ConsultationPlus.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/obj/Debug/netcoreapp3.1/ConsultationPlus.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/obj/Debug/netcoreapp3.1/ConsultationPlus.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/obj/Debug/netcoreapp3.1/ConsultationPlus.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/obj/Debug/netcoreapp3.1/ConsultationPlus.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/obj/Debug/netcoreapp3.1/ConsultationPlus.csproj.GenerateResource.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/obj/Debug/netcoreapp3.1/ConsultationPlus.csproj.GenerateResource.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/obj/Debug/netcoreapp3.1/ConsultationPlus.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/obj/Debug/netcoreapp3.1/ConsultationPlus.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/obj/Debug/netcoreapp3.1/ConsultationPlus.designer.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/obj/Debug/netcoreapp3.1/ConsultationPlus.designer.runtimeconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/obj/Debug/netcoreapp3.1/ConsultationPlus.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/obj/Debug/netcoreapp3.1/ConsultationPlus.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/obj/Debug/netcoreapp3.1/ConsultationPlus.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/obj/Debug/netcoreapp3.1/ConsultationPlus.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/obj/Debug/netcoreapp3.1/ConsultationPlus.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/obj/Debug/netcoreapp3.1/ConsultationPlus.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/obj/Debug/netcoreapp3.1/WindowsFormsApp2.SearchForm.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/obj/Debug/netcoreapp3.1/WindowsFormsApp2.SearchForm.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/obj/Debug/netcoreapp3.1/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/obj/Debug/netcoreapp3.1/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsultationPlus1/WindowsFormsApp2/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/app/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\didak\source\repos\SysEng-Team-33\consultation_plus\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1q4V4G8GC0CZslpBYIclHIBe1C1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="consultation_plus" type="Python.DjangoServer" factoryName="Django server">
+      <module name="consultation_plus" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21ddbcb9-1689-4063-9e81-b1bee4dfef0c" name="Default Changelist" comment="" />
+      <created>1616338655505</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616338655505</updated>
+      <workItem from="1616338661176" duration="496000" />
+      <workItem from="1616339188675" duration="4783000" />
+      <workItem from="1616408236020" duration="39000" />
+      <workItem from="1616409235577" duration="9000" />
+      <workItem from="1616409265258" duration="70000" />
+      <workItem from="1616409345816" duration="132000" />
+      <workItem from="1616409633397" duration="23000" />
+      <workItem from="1616409965981" duration="3559000" />
+      <workItem from="1616414375283" duration="188000" />
+      <workItem from="1616425118128" duration="3347000" />
+      <workItem from="1616578943356" duration="56000" />
+      <workItem from="1616666962832" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

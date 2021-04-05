@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\didak\Desktop\UCL\Year 2\Systems Engineering\repo\ConsultationPlus1\WindowsFormsApp2\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Forms\CreateCategoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\DeleteCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\DeveloperPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\EmailForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\DisclaimerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\HistoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\PrivacyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\RegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\SearchForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\WhitelistForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="DataSet1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>

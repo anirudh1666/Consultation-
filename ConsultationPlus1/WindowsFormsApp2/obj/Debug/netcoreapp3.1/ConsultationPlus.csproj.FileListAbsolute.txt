@@ -1,0 +1,79 @@
+C:\Users\didak\source\repos\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\bin\Debug\netcoreapp3.1\ConsultationPlus.exe
+C:\Users\didak\source\repos\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\bin\Debug\netcoreapp3.1\ConsultationPlus.deps.json
+C:\Users\didak\source\repos\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\bin\Debug\netcoreapp3.1\ConsultationPlus.runtimeconfig.json
+C:\Users\didak\source\repos\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\bin\Debug\netcoreapp3.1\ConsultationPlus.runtimeconfig.dev.json
+C:\Users\didak\source\repos\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\bin\Debug\netcoreapp3.1\ConsultationPlus.dll
+C:\Users\didak\source\repos\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\bin\Debug\netcoreapp3.1\ConsultationPlus.pdb
+C:\Users\didak\source\repos\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\bin\Debug\netcoreapp3.1\Microsoft.Graph.dll
+C:\Users\didak\source\repos\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\bin\Debug\netcoreapp3.1\Microsoft.Graph.Auth.dll
+C:\Users\didak\source\repos\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\bin\Debug\netcoreapp3.1\Microsoft.Graph.Core.dll
+C:\Users\didak\source\repos\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\didak\source\repos\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\bin\Debug\netcoreapp3.1\Mono.HttpUtility.dll
+C:\Users\didak\source\repos\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\didak\source\repos\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\didak\source\repos\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\didak\source\repos\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\didak\source\repos\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\didak\source\repos\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\didak\source\repos\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\didak\source\repos\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\didak\source\repos\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\obj\Debug\netcoreapp3.1\ConsultationPlus.csprojAssemblyReference.cache
+C:\Users\didak\source\repos\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.CreateCategoryForm.resources
+C:\Users\didak\source\repos\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.DeleteCategory.resources
+C:\Users\didak\source\repos\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.Forms.EmailForm.resources
+C:\Users\didak\source\repos\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.HistoryForm.resources
+C:\Users\didak\source\repos\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.LoginForm.resources
+C:\Users\didak\source\repos\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.PrivacyForm.resources
+C:\Users\didak\source\repos\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.RegisterForm.resources
+C:\Users\didak\source\repos\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.SearchForm.resources
+C:\Users\didak\source\repos\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.WhitelistForm.resources
+C:\Users\didak\source\repos\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\obj\Debug\netcoreapp3.1\ConsultationPlus.Properties.Resources.resources
+C:\Users\didak\source\repos\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\obj\Debug\netcoreapp3.1\ConsultationPlus.csproj.GenerateResource.cache
+C:\Users\didak\source\repos\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\obj\Debug\netcoreapp3.1\ConsultationPlus.AssemblyInfoInputs.cache
+C:\Users\didak\source\repos\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\obj\Debug\netcoreapp3.1\ConsultationPlus.AssemblyInfo.cs
+C:\Users\didak\source\repos\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\obj\Debug\netcoreapp3.1\ConsultationPlus.csproj.CoreCompileInputs.cache
+C:\Users\didak\source\repos\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\obj\Debug\netcoreapp3.1\ConsultationPlus.csproj.CopyComplete
+C:\Users\didak\source\repos\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\obj\Debug\netcoreapp3.1\ConsultationPlus.dll
+C:\Users\didak\source\repos\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\obj\Debug\netcoreapp3.1\ConsultationPlus.pdb
+C:\Users\didak\source\repos\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\obj\Debug\netcoreapp3.1\ConsultationPlus.genruntimeconfig.cache
+C:\Users\aniru\OneDrive\Documents\New folder (2)\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\bin\Debug\netcoreapp3.1\ConsultationPlus.exe
+C:\Users\aniru\OneDrive\Documents\New folder (2)\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\bin\Debug\netcoreapp3.1\ConsultationPlus.deps.json
+C:\Users\aniru\OneDrive\Documents\New folder (2)\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\bin\Debug\netcoreapp3.1\ConsultationPlus.runtimeconfig.json
+C:\Users\aniru\OneDrive\Documents\New folder (2)\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\bin\Debug\netcoreapp3.1\ConsultationPlus.runtimeconfig.dev.json
+C:\Users\aniru\OneDrive\Documents\New folder (2)\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\bin\Debug\netcoreapp3.1\ConsultationPlus.dll
+C:\Users\aniru\OneDrive\Documents\New folder (2)\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\bin\Debug\netcoreapp3.1\ConsultationPlus.pdb
+C:\Users\aniru\OneDrive\Documents\New folder (2)\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\bin\Debug\netcoreapp3.1\Microsoft.Graph.dll
+C:\Users\aniru\OneDrive\Documents\New folder (2)\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\bin\Debug\netcoreapp3.1\Microsoft.Graph.Auth.dll
+C:\Users\aniru\OneDrive\Documents\New folder (2)\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\bin\Debug\netcoreapp3.1\Microsoft.Graph.Core.dll
+C:\Users\aniru\OneDrive\Documents\New folder (2)\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\aniru\OneDrive\Documents\New folder (2)\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\bin\Debug\netcoreapp3.1\Mono.HttpUtility.dll
+C:\Users\aniru\OneDrive\Documents\New folder (2)\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\aniru\OneDrive\Documents\New folder (2)\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\aniru\OneDrive\Documents\New folder (2)\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aniru\OneDrive\Documents\New folder (2)\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\aniru\OneDrive\Documents\New folder (2)\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\aniru\OneDrive\Documents\New folder (2)\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\aniru\OneDrive\Documents\New folder (2)\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aniru\OneDrive\Documents\New folder (2)\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aniru\OneDrive\Documents\New folder (2)\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\obj\Debug\netcoreapp3.1\ConsultationPlus.csprojAssemblyReference.cache
+C:\Users\aniru\OneDrive\Documents\New folder (2)\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.CreateCategoryForm.resources
+C:\Users\aniru\OneDrive\Documents\New folder (2)\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.DeleteCategory.resources
+C:\Users\aniru\OneDrive\Documents\New folder (2)\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.Forms.EmailForm.resources
+C:\Users\aniru\OneDrive\Documents\New folder (2)\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.HistoryForm.resources
+C:\Users\aniru\OneDrive\Documents\New folder (2)\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.LoginForm.resources
+C:\Users\aniru\OneDrive\Documents\New folder (2)\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.PrivacyForm.resources
+C:\Users\aniru\OneDrive\Documents\New folder (2)\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.RegisterForm.resources
+C:\Users\aniru\OneDrive\Documents\New folder (2)\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.SearchForm.resources
+C:\Users\aniru\OneDrive\Documents\New folder (2)\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.WhitelistForm.resources
+C:\Users\aniru\OneDrive\Documents\New folder (2)\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\obj\Debug\netcoreapp3.1\ConsultationPlus.Properties.Resources.resources
+C:\Users\aniru\OneDrive\Documents\New folder (2)\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\obj\Debug\netcoreapp3.1\ConsultationPlus.csproj.GenerateResource.cache
+C:\Users\aniru\OneDrive\Documents\New folder (2)\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\obj\Debug\netcoreapp3.1\ConsultationPlus.AssemblyInfoInputs.cache
+C:\Users\aniru\OneDrive\Documents\New folder (2)\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\obj\Debug\netcoreapp3.1\ConsultationPlus.AssemblyInfo.cs
+C:\Users\aniru\OneDrive\Documents\New folder (2)\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\obj\Debug\netcoreapp3.1\ConsultationPlus.csproj.CoreCompileInputs.cache
+C:\Users\aniru\OneDrive\Documents\New folder (2)\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\obj\Debug\netcoreapp3.1\ConsultationPlus.csproj.CopyComplete
+C:\Users\aniru\OneDrive\Documents\New folder (2)\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\obj\Debug\netcoreapp3.1\ConsultationPlus.dll
+C:\Users\aniru\OneDrive\Documents\New folder (2)\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\obj\Debug\netcoreapp3.1\ConsultationPlus.pdb
+C:\Users\aniru\OneDrive\Documents\New folder (2)\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\obj\Debug\netcoreapp3.1\ConsultationPlus.genruntimeconfig.cache
+C:\Users\aniru\OneDrive\Documents\New folder (2)\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\obj\Debug\netcoreapp3.1\ConsultationPlus.Forms.DeveloperPanel.resources
+C:\Users\didak\source\repos\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\obj\Debug\netcoreapp3.1\ConsultationPlus.Forms.DeveloperPanel.resources
+C:\Users\didak\source\repos\SysEng-Team-33\ConsultationPlus1\WindowsFormsApp2\obj\Debug\netcoreapp3.1\ConsultationPlus.Forms.DisclaimerForm.resources
